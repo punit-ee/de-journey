@@ -1,0 +1,33 @@
+[
+  {
+    "name": "userId",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "User Identity"
+  },
+  {
+    "name": "MovieId",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Movie Identity"
+  },
+  {
+    "name": "rating",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Movie Rating"
+  },
+  {
+    "name": "timestamp",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "genres"
+  },
+  {
+    "name": "load_date",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED",
+    "description": "Load Date",
+    "defaultValueExpression": "CURRENT_TIMESTAMP()"
+  }
+]

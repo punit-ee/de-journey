@@ -1,0 +1,11 @@
+
+version: 2
+
+models:
+  - name: movies_raw_to_curate
+    description: "Movie raw curate"
+
+
+  - name: rating_raw_to_curate
+    description: "Curate Rating raw"
+

@@ -1,0 +1,1 @@
+{"_invocation_id": "18ffedab-ee2f-47d3-9fe6-c94b73a46c21", "linked": {"0": {"name": "model.movie_curate.movie_rating_pres", "type": "model"}, "1": {"name": "model.movie_curate.rating_raw_to_curate", "type": "model", "succ": [0]}, "2": {"name": "model.movie_curate.movies_raw_to_curate", "type": "model", "succ": [0]}}}
